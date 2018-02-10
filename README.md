@@ -1,2 +1,0 @@
-# configs
-config files
